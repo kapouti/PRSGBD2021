@@ -1,0 +1,11 @@
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\bin\Debug\DAL.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\bin\Debug\DAL.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\bin\Debug\Dapper.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\bin\Debug\DTO2.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\bin\Debug\DTO2.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\bin\Debug\Dapper.xml
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\obj\Debug\DAL.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DAL2\obj\Debug\DAL.pdb

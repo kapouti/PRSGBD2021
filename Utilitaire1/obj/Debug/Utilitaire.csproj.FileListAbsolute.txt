@@ -1,0 +1,5 @@
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\Utilitaire1\bin\Debug\Utilitaire.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\Utilitaire1\bin\Debug\Utilitaire.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\Utilitaire1\obj\Debug\Utilitaire.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\Utilitaire1\obj\Debug\Utilitaire.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\Utilitaire1\obj\Debug\Utilitaire.pdb

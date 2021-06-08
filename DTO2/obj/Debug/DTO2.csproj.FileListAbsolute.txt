@@ -1,0 +1,6 @@
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DTO2\bin\Debug\DTO2.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DTO2\bin\Debug\DTO2.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DTO2\obj\Debug\DTO2.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DTO2\obj\Debug\DTO2.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DTO2\obj\Debug\DTO2.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\DTO2\obj\Debug\DTO2.csprojAssemblyReference.cache

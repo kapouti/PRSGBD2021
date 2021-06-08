@@ -1,0 +1,48 @@
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csprojAssemblyReference.cache
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.Form1.resources
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.FPrin.resources
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.Properties.Resources.resources
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csproj.GenerateResource.cache
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\PRSGBD21.exe.config
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\PRSGBD21.exe
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\PRSGBD21.pdb
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\Dapper.dll
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\FluentValidation.dll
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\MetroFramework.Design.dll
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\MetroFramework.dll
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\Dapper.xml
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\bin\Debug\FluentValidation.xml
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csproj.CopyComplete
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.exe
+C:\Users\gaspa\Desktop\Nouveau dossier\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\PRSGBD21.exe.config
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\PRSGBD21.exe
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\PRSGBD21.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\BL.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\DAL.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\Dapper.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\DTO2.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\FluentValidation.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\MetroFramework.Design.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\MetroFramework.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\Utilitaire.dll
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\BL.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\DAL.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\DTO2.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\Utilitaire.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\Dapper.xml
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\bin\Debug\FluentValidation.xml
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csprojAssemblyReference.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.Form1.resources
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.FPrin.resources
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.Properties.Resources.resources
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csproj.GenerateResource.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.csproj.CopyComplete
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.exe
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.pdb
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.UC.ucRechercherMEM.resources
+C:\Users\gaspa\Desktop\prjSGBD\PRSGBD21\PRSGBD21\obj\Debug\PRSGBD21.UC.ucAffMEM.resources
