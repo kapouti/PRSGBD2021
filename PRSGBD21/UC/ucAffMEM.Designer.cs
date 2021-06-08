@@ -75,9 +75,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbMail.CustomButton.Image = null;
-            this.TbMail.CustomButton.Location = new System.Drawing.Point(225, 1);
+            this.TbMail.CustomButton.Location = new System.Drawing.Point(125, 1);
+            this.TbMail.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbMail.CustomButton.Name = "";
-            this.TbMail.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbMail.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbMail.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbMail.CustomButton.TabIndex = 1;
             this.TbMail.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -86,7 +87,8 @@ namespace PRSGBD21.UC
             this.TbMail.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_MAIL", true));
             this.TbMail.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbMail.Lines = new string[0];
-            this.TbMail.Location = new System.Drawing.Point(153, 381);
+            this.TbMail.Location = new System.Drawing.Point(115, 310);
+            this.TbMail.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbMail.MaxLength = 32767;
             this.TbMail.Name = "TbMail";
             this.TbMail.PasswordChar = '\0';
@@ -95,7 +97,7 @@ namespace PRSGBD21.UC
             this.TbMail.SelectionLength = 0;
             this.TbMail.SelectionStart = 0;
             this.TbMail.ShortcutsEnabled = true;
-            this.TbMail.Size = new System.Drawing.Size(247, 23);
+            this.TbMail.Size = new System.Drawing.Size(185, 19);
             this.TbMail.TabIndex = 66;
             this.TbMail.UseSelectable = true;
             this.TbMail.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -109,9 +111,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel14.AutoSize = true;
             this.metroLabel14.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel14.Location = new System.Drawing.Point(8, 381);
+            this.metroLabel14.Location = new System.Drawing.Point(6, 310);
+            this.metroLabel14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel14.Name = "metroLabel14";
-            this.metroLabel14.Size = new System.Drawing.Size(103, 20);
+            this.metroLabel14.Size = new System.Drawing.Size(99, 19);
             this.metroLabel14.TabIndex = 65;
             this.metroLabel14.Text = "Adresse Mail:";
             this.metroLabel14.UseCustomBackColor = true;
@@ -122,9 +125,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbLocalite.CustomButton.Image = null;
-            this.TbLocalite.CustomButton.Location = new System.Drawing.Point(162, 1);
+            this.TbLocalite.CustomButton.Location = new System.Drawing.Point(90, 1);
+            this.TbLocalite.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbLocalite.CustomButton.Name = "";
-            this.TbLocalite.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbLocalite.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbLocalite.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbLocalite.CustomButton.TabIndex = 1;
             this.TbLocalite.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -133,7 +137,8 @@ namespace PRSGBD21.UC
             this.TbLocalite.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_LOC", true));
             this.TbLocalite.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbLocalite.Lines = new string[0];
-            this.TbLocalite.Location = new System.Drawing.Point(153, 335);
+            this.TbLocalite.Location = new System.Drawing.Point(115, 272);
+            this.TbLocalite.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbLocalite.MaxLength = 32767;
             this.TbLocalite.Name = "TbLocalite";
             this.TbLocalite.PasswordChar = '\0';
@@ -142,7 +147,7 @@ namespace PRSGBD21.UC
             this.TbLocalite.SelectionLength = 0;
             this.TbLocalite.SelectionStart = 0;
             this.TbLocalite.ShortcutsEnabled = true;
-            this.TbLocalite.Size = new System.Drawing.Size(184, 23);
+            this.TbLocalite.Size = new System.Drawing.Size(138, 19);
             this.TbLocalite.TabIndex = 64;
             this.TbLocalite.UseSelectable = true;
             this.TbLocalite.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -154,9 +159,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbDteInscr.CustomButton.Image = null;
-            this.TbDteInscr.CustomButton.Location = new System.Drawing.Point(126, 1);
+            this.TbDteInscr.CustomButton.Location = new System.Drawing.Point(70, 1);
+            this.TbDteInscr.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbDteInscr.CustomButton.Name = "";
-            this.TbDteInscr.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbDteInscr.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbDteInscr.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbDteInscr.CustomButton.TabIndex = 1;
             this.TbDteInscr.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -165,7 +171,8 @@ namespace PRSGBD21.UC
             this.TbDteInscr.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_DTE_INS", true));
             this.TbDteInscr.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbDteInscr.Lines = new string[0];
-            this.TbDteInscr.Location = new System.Drawing.Point(583, 13);
+            this.TbDteInscr.Location = new System.Drawing.Point(437, 11);
+            this.TbDteInscr.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbDteInscr.MaxLength = 32767;
             this.TbDteInscr.Name = "TbDteInscr";
             this.TbDteInscr.PasswordChar = '\0';
@@ -174,7 +181,7 @@ namespace PRSGBD21.UC
             this.TbDteInscr.SelectionLength = 0;
             this.TbDteInscr.SelectionStart = 0;
             this.TbDteInscr.ShortcutsEnabled = true;
-            this.TbDteInscr.Size = new System.Drawing.Size(148, 23);
+            this.TbDteInscr.Size = new System.Drawing.Size(111, 19);
             this.TbDteInscr.TabIndex = 63;
             this.TbDteInscr.UseSelectable = true;
             this.TbDteInscr.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -186,9 +193,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbDern_Coti.CustomButton.Image = null;
-            this.TbDern_Coti.CustomButton.Location = new System.Drawing.Point(126, 1);
+            this.TbDern_Coti.CustomButton.Location = new System.Drawing.Point(70, 1);
+            this.TbDern_Coti.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbDern_Coti.CustomButton.Name = "";
-            this.TbDern_Coti.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbDern_Coti.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbDern_Coti.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbDern_Coti.CustomButton.TabIndex = 1;
             this.TbDern_Coti.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -197,7 +205,8 @@ namespace PRSGBD21.UC
             this.TbDern_Coti.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_ANN_DER_COTI", true));
             this.TbDern_Coti.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbDern_Coti.Lines = new string[0];
-            this.TbDern_Coti.Location = new System.Drawing.Point(583, 57);
+            this.TbDern_Coti.Location = new System.Drawing.Point(437, 46);
+            this.TbDern_Coti.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbDern_Coti.MaxLength = 32767;
             this.TbDern_Coti.Name = "TbDern_Coti";
             this.TbDern_Coti.PasswordChar = '\0';
@@ -206,7 +215,7 @@ namespace PRSGBD21.UC
             this.TbDern_Coti.SelectionLength = 0;
             this.TbDern_Coti.SelectionStart = 0;
             this.TbDern_Coti.ShortcutsEnabled = true;
-            this.TbDern_Coti.Size = new System.Drawing.Size(148, 23);
+            this.TbDern_Coti.Size = new System.Drawing.Size(111, 19);
             this.TbDern_Coti.TabIndex = 62;
             this.TbDern_Coti.UseSelectable = true;
             this.TbDern_Coti.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -218,9 +227,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbDteNaiss.CustomButton.Image = null;
-            this.TbDteNaiss.CustomButton.Location = new System.Drawing.Point(126, 1);
+            this.TbDteNaiss.CustomButton.Location = new System.Drawing.Point(70, 1);
+            this.TbDteNaiss.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbDteNaiss.CustomButton.Name = "";
-            this.TbDteNaiss.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbDteNaiss.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbDteNaiss.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbDteNaiss.CustomButton.TabIndex = 1;
             this.TbDteNaiss.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -229,7 +239,8 @@ namespace PRSGBD21.UC
             this.TbDteNaiss.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_DTE_NAI", true));
             this.TbDteNaiss.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbDteNaiss.Lines = new string[0];
-            this.TbDteNaiss.Location = new System.Drawing.Point(153, 179);
+            this.TbDteNaiss.Location = new System.Drawing.Point(115, 145);
+            this.TbDteNaiss.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbDteNaiss.MaxLength = 32767;
             this.TbDteNaiss.Name = "TbDteNaiss";
             this.TbDteNaiss.PasswordChar = '\0';
@@ -238,7 +249,7 @@ namespace PRSGBD21.UC
             this.TbDteNaiss.SelectionLength = 0;
             this.TbDteNaiss.SelectionStart = 0;
             this.TbDteNaiss.ShortcutsEnabled = true;
-            this.TbDteNaiss.Size = new System.Drawing.Size(148, 23);
+            this.TbDteNaiss.Size = new System.Drawing.Size(111, 19);
             this.TbDteNaiss.TabIndex = 61;
             this.TbDteNaiss.UseSelectable = true;
             this.TbDteNaiss.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -250,9 +261,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbNum_Tel.CustomButton.Image = null;
-            this.TbNum_Tel.CustomButton.Location = new System.Drawing.Point(161, 1);
+            this.TbNum_Tel.CustomButton.Location = new System.Drawing.Point(89, 1);
+            this.TbNum_Tel.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNum_Tel.CustomButton.Name = "";
-            this.TbNum_Tel.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbNum_Tel.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbNum_Tel.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbNum_Tel.CustomButton.TabIndex = 1;
             this.TbNum_Tel.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -261,7 +273,8 @@ namespace PRSGBD21.UC
             this.TbNum_Tel.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_NUM_TEL", true));
             this.TbNum_Tel.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbNum_Tel.Lines = new string[0];
-            this.TbNum_Tel.Location = new System.Drawing.Point(154, 412);
+            this.TbNum_Tel.Location = new System.Drawing.Point(116, 335);
+            this.TbNum_Tel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNum_Tel.MaxLength = 32767;
             this.TbNum_Tel.Name = "TbNum_Tel";
             this.TbNum_Tel.PasswordChar = '\0';
@@ -270,7 +283,7 @@ namespace PRSGBD21.UC
             this.TbNum_Tel.SelectionLength = 0;
             this.TbNum_Tel.SelectionStart = 0;
             this.TbNum_Tel.ShortcutsEnabled = true;
-            this.TbNum_Tel.Size = new System.Drawing.Size(183, 23);
+            this.TbNum_Tel.Size = new System.Drawing.Size(137, 19);
             this.TbNum_Tel.TabIndex = 60;
             this.TbNum_Tel.UseSelectable = true;
             this.TbNum_Tel.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -282,9 +295,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbNumGSM.CustomButton.Image = null;
-            this.TbNumGSM.CustomButton.Location = new System.Drawing.Point(162, 1);
+            this.TbNumGSM.CustomButton.Location = new System.Drawing.Point(90, 1);
+            this.TbNumGSM.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNumGSM.CustomButton.Name = "";
-            this.TbNumGSM.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbNumGSM.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbNumGSM.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbNumGSM.CustomButton.TabIndex = 1;
             this.TbNumGSM.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -293,7 +307,8 @@ namespace PRSGBD21.UC
             this.TbNumGSM.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_NUM_GSM", true));
             this.TbNumGSM.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbNumGSM.Lines = new string[0];
-            this.TbNumGSM.Location = new System.Drawing.Point(153, 446);
+            this.TbNumGSM.Location = new System.Drawing.Point(115, 362);
+            this.TbNumGSM.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNumGSM.MaxLength = 32767;
             this.TbNumGSM.Name = "TbNumGSM";
             this.TbNumGSM.PasswordChar = '\0';
@@ -302,7 +317,7 @@ namespace PRSGBD21.UC
             this.TbNumGSM.SelectionLength = 0;
             this.TbNumGSM.SelectionStart = 0;
             this.TbNumGSM.ShortcutsEnabled = true;
-            this.TbNumGSM.Size = new System.Drawing.Size(184, 23);
+            this.TbNumGSM.Size = new System.Drawing.Size(138, 19);
             this.TbNumGSM.TabIndex = 59;
             this.TbNumGSM.UseSelectable = true;
             this.TbNumGSM.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -314,9 +329,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbNom.CustomButton.Image = null;
-            this.TbNom.CustomButton.Location = new System.Drawing.Point(141, 1);
+            this.TbNom.CustomButton.Location = new System.Drawing.Point(78, 1);
+            this.TbNom.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNom.CustomButton.Name = "";
-            this.TbNom.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbNom.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbNom.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbNom.CustomButton.TabIndex = 1;
             this.TbNom.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -325,7 +341,8 @@ namespace PRSGBD21.UC
             this.TbNom.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_NOM", true));
             this.TbNom.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbNom.Lines = new string[0];
-            this.TbNom.Location = new System.Drawing.Point(153, 54);
+            this.TbNom.Location = new System.Drawing.Point(115, 44);
+            this.TbNom.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNom.MaxLength = 32767;
             this.TbNom.Name = "TbNom";
             this.TbNom.PasswordChar = '\0';
@@ -334,7 +351,7 @@ namespace PRSGBD21.UC
             this.TbNom.SelectionLength = 0;
             this.TbNom.SelectionStart = 0;
             this.TbNom.ShortcutsEnabled = true;
-            this.TbNom.Size = new System.Drawing.Size(163, 23);
+            this.TbNom.Size = new System.Drawing.Size(122, 19);
             this.TbNom.TabIndex = 58;
             this.TbNom.UseSelectable = true;
             this.TbNom.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -346,9 +363,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbPrénom.CustomButton.Image = null;
-            this.TbPrénom.CustomButton.Location = new System.Drawing.Point(141, 1);
+            this.TbPrénom.CustomButton.Location = new System.Drawing.Point(78, 1);
+            this.TbPrénom.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbPrénom.CustomButton.Name = "";
-            this.TbPrénom.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbPrénom.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbPrénom.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbPrénom.CustomButton.TabIndex = 1;
             this.TbPrénom.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -357,7 +375,8 @@ namespace PRSGBD21.UC
             this.TbPrénom.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_PRN", true));
             this.TbPrénom.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbPrénom.Lines = new string[0];
-            this.TbPrénom.Location = new System.Drawing.Point(153, 92);
+            this.TbPrénom.Location = new System.Drawing.Point(115, 75);
+            this.TbPrénom.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbPrénom.MaxLength = 32767;
             this.TbPrénom.Name = "TbPrénom";
             this.TbPrénom.PasswordChar = '\0';
@@ -366,7 +385,7 @@ namespace PRSGBD21.UC
             this.TbPrénom.SelectionLength = 0;
             this.TbPrénom.SelectionStart = 0;
             this.TbPrénom.ShortcutsEnabled = true;
-            this.TbPrénom.Size = new System.Drawing.Size(163, 23);
+            this.TbPrénom.Size = new System.Drawing.Size(122, 19);
             this.TbPrénom.TabIndex = 57;
             this.TbPrénom.UseSelectable = true;
             this.TbPrénom.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -378,9 +397,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbSexe.CustomButton.Image = null;
-            this.TbSexe.CustomButton.Location = new System.Drawing.Point(23, 1);
+            this.TbSexe.CustomButton.Location = new System.Drawing.Point(12, 1);
+            this.TbSexe.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbSexe.CustomButton.Name = "";
-            this.TbSexe.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbSexe.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbSexe.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbSexe.CustomButton.TabIndex = 1;
             this.TbSexe.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -389,7 +409,8 @@ namespace PRSGBD21.UC
             this.TbSexe.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_SEX", true));
             this.TbSexe.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbSexe.Lines = new string[0];
-            this.TbSexe.Location = new System.Drawing.Point(153, 133);
+            this.TbSexe.Location = new System.Drawing.Point(115, 108);
+            this.TbSexe.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbSexe.MaxLength = 32767;
             this.TbSexe.Name = "TbSexe";
             this.TbSexe.PasswordChar = '\0';
@@ -398,7 +419,7 @@ namespace PRSGBD21.UC
             this.TbSexe.SelectionLength = 0;
             this.TbSexe.SelectionStart = 0;
             this.TbSexe.ShortcutsEnabled = true;
-            this.TbSexe.Size = new System.Drawing.Size(45, 23);
+            this.TbSexe.Size = new System.Drawing.Size(34, 19);
             this.TbSexe.TabIndex = 56;
             this.TbSexe.UseSelectable = true;
             this.TbSexe.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -410,9 +431,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbRue.CustomButton.Image = null;
-            this.TbRue.CustomButton.Location = new System.Drawing.Point(161, 1);
+            this.TbRue.CustomButton.Location = new System.Drawing.Point(89, 1);
+            this.TbRue.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbRue.CustomButton.Name = "";
-            this.TbRue.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbRue.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbRue.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbRue.CustomButton.TabIndex = 1;
             this.TbRue.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -421,7 +443,8 @@ namespace PRSGBD21.UC
             this.TbRue.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_RUE", true));
             this.TbRue.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbRue.Lines = new string[0];
-            this.TbRue.Location = new System.Drawing.Point(154, 219);
+            this.TbRue.Location = new System.Drawing.Point(116, 178);
+            this.TbRue.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbRue.MaxLength = 32767;
             this.TbRue.Name = "TbRue";
             this.TbRue.PasswordChar = '\0';
@@ -430,7 +453,7 @@ namespace PRSGBD21.UC
             this.TbRue.SelectionLength = 0;
             this.TbRue.SelectionStart = 0;
             this.TbRue.ShortcutsEnabled = true;
-            this.TbRue.Size = new System.Drawing.Size(183, 23);
+            this.TbRue.Size = new System.Drawing.Size(137, 19);
             this.TbRue.TabIndex = 55;
             this.TbRue.UseSelectable = true;
             this.TbRue.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -442,9 +465,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbNom_Resi.CustomButton.Image = null;
-            this.TbNom_Resi.CustomButton.Location = new System.Drawing.Point(224, 1);
+            this.TbNom_Resi.CustomButton.Location = new System.Drawing.Point(124, 1);
+            this.TbNom_Resi.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNom_Resi.CustomButton.Name = "";
-            this.TbNom_Resi.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbNom_Resi.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbNom_Resi.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbNom_Resi.CustomButton.TabIndex = 1;
             this.TbNom_Resi.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -453,7 +477,8 @@ namespace PRSGBD21.UC
             this.TbNom_Resi.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_NOM_RESI", true));
             this.TbNom_Resi.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbNom_Resi.Lines = new string[0];
-            this.TbNom_Resi.Location = new System.Drawing.Point(154, 247);
+            this.TbNom_Resi.Location = new System.Drawing.Point(116, 201);
+            this.TbNom_Resi.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNom_Resi.MaxLength = 32767;
             this.TbNom_Resi.Name = "TbNom_Resi";
             this.TbNom_Resi.PasswordChar = '\0';
@@ -462,7 +487,7 @@ namespace PRSGBD21.UC
             this.TbNom_Resi.SelectionLength = 0;
             this.TbNom_Resi.SelectionStart = 0;
             this.TbNom_Resi.ShortcutsEnabled = true;
-            this.TbNom_Resi.Size = new System.Drawing.Size(246, 23);
+            this.TbNom_Resi.Size = new System.Drawing.Size(184, 19);
             this.TbNom_Resi.TabIndex = 54;
             this.TbNom_Resi.UseSelectable = true;
             this.TbNom_Resi.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -474,9 +499,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbNum.CustomButton.Image = null;
-            this.TbNum.CustomButton.Location = new System.Drawing.Point(22, 1);
+            this.TbNum.CustomButton.Location = new System.Drawing.Point(11, 1);
+            this.TbNum.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNum.CustomButton.Name = "";
-            this.TbNum.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbNum.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbNum.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbNum.CustomButton.TabIndex = 1;
             this.TbNum.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -485,7 +511,8 @@ namespace PRSGBD21.UC
             this.TbNum.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_NUM", true));
             this.TbNum.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbNum.Lines = new string[0];
-            this.TbNum.Location = new System.Drawing.Point(154, 276);
+            this.TbNum.Location = new System.Drawing.Point(116, 224);
+            this.TbNum.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbNum.MaxLength = 32767;
             this.TbNum.Name = "TbNum";
             this.TbNum.PasswordChar = '\0';
@@ -494,7 +521,7 @@ namespace PRSGBD21.UC
             this.TbNum.SelectionLength = 0;
             this.TbNum.SelectionStart = 0;
             this.TbNum.ShortcutsEnabled = true;
-            this.TbNum.Size = new System.Drawing.Size(44, 23);
+            this.TbNum.Size = new System.Drawing.Size(33, 19);
             this.TbNum.TabIndex = 53;
             this.TbNum.UseSelectable = true;
             this.TbNum.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -506,9 +533,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbCP.CustomButton.Image = null;
-            this.TbCP.CustomButton.Location = new System.Drawing.Point(161, 1);
+            this.TbCP.CustomButton.Location = new System.Drawing.Point(89, 1);
+            this.TbCP.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbCP.CustomButton.Name = "";
-            this.TbCP.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbCP.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbCP.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbCP.CustomButton.TabIndex = 1;
             this.TbCP.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -517,7 +545,8 @@ namespace PRSGBD21.UC
             this.TbCP.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_CP", true));
             this.TbCP.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbCP.Lines = new string[0];
-            this.TbCP.Location = new System.Drawing.Point(154, 305);
+            this.TbCP.Location = new System.Drawing.Point(116, 248);
+            this.TbCP.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbCP.MaxLength = 32767;
             this.TbCP.Name = "TbCP";
             this.TbCP.PasswordChar = '\0';
@@ -526,7 +555,7 @@ namespace PRSGBD21.UC
             this.TbCP.SelectionLength = 0;
             this.TbCP.SelectionStart = 0;
             this.TbCP.ShortcutsEnabled = true;
-            this.TbCP.Size = new System.Drawing.Size(183, 23);
+            this.TbCP.Size = new System.Drawing.Size(137, 19);
             this.TbCP.TabIndex = 52;
             this.TbCP.UseSelectable = true;
             this.TbCP.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -538,9 +567,10 @@ namespace PRSGBD21.UC
             // 
             // 
             this.TbId.CustomButton.Image = null;
-            this.TbId.CustomButton.Location = new System.Drawing.Point(23, 1);
+            this.TbId.CustomButton.Location = new System.Drawing.Point(12, 1);
+            this.TbId.CustomButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbId.CustomButton.Name = "";
-            this.TbId.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.TbId.CustomButton.Size = new System.Drawing.Size(13, 14);
             this.TbId.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.TbId.CustomButton.TabIndex = 1;
             this.TbId.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -549,7 +579,8 @@ namespace PRSGBD21.UC
             this.TbId.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.bsMEM, "MBR_ID", true));
             this.TbId.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.TbId.Lines = new string[0];
-            this.TbId.Location = new System.Drawing.Point(153, 13);
+            this.TbId.Location = new System.Drawing.Point(115, 11);
+            this.TbId.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.TbId.MaxLength = 32767;
             this.TbId.Name = "TbId";
             this.TbId.PasswordChar = '\0';
@@ -558,7 +589,7 @@ namespace PRSGBD21.UC
             this.TbId.SelectionLength = 0;
             this.TbId.SelectionStart = 0;
             this.TbId.ShortcutsEnabled = true;
-            this.TbId.Size = new System.Drawing.Size(45, 23);
+            this.TbId.Size = new System.Drawing.Size(34, 19);
             this.TbId.TabIndex = 51;
             this.TbId.UseSelectable = true;
             this.TbId.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -569,9 +600,10 @@ namespace PRSGBD21.UC
             this.CbPilote.AutoSize = true;
             this.CbPilote.DataBindings.Add(new System.Windows.Forms.Binding("CheckState", this.bsMEM, "MBR_EST_PILOTE", true));
             this.CbPilote.FontSize = MetroFramework.MetroCheckBoxSize.Medium;
-            this.CbPilote.Location = new System.Drawing.Point(583, 133);
+            this.CbPilote.Location = new System.Drawing.Point(437, 108);
+            this.CbPilote.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.CbPilote.Name = "CbPilote";
-            this.CbPilote.Size = new System.Drawing.Size(48, 20);
+            this.CbPilote.Size = new System.Drawing.Size(47, 19);
             this.CbPilote.TabIndex = 50;
             this.CbPilote.Text = "Oui";
             this.CbPilote.UseSelectable = true;
@@ -581,9 +613,10 @@ namespace PRSGBD21.UC
             this.CbAdmin.AutoSize = true;
             this.CbAdmin.DataBindings.Add(new System.Windows.Forms.Binding("CheckState", this.bsMEM, "MBR_EST_ADMIN", true));
             this.CbAdmin.FontSize = MetroFramework.MetroCheckBoxSize.Medium;
-            this.CbAdmin.Location = new System.Drawing.Point(583, 92);
+            this.CbAdmin.Location = new System.Drawing.Point(437, 75);
+            this.CbAdmin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.CbAdmin.Name = "CbAdmin";
-            this.CbAdmin.Size = new System.Drawing.Size(48, 20);
+            this.CbAdmin.Size = new System.Drawing.Size(47, 19);
             this.CbAdmin.TabIndex = 49;
             this.CbAdmin.Text = "Oui";
             this.CbAdmin.UseSelectable = true;
@@ -592,9 +625,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel13.AutoSize = true;
             this.metroLabel13.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel13.Location = new System.Drawing.Point(358, 133);
+            this.metroLabel13.Location = new System.Drawing.Point(268, 108);
+            this.metroLabel13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel13.Name = "metroLabel13";
-            this.metroLabel13.Size = new System.Drawing.Size(104, 20);
+            this.metroLabel13.Size = new System.Drawing.Size(98, 19);
             this.metroLabel13.TabIndex = 48;
             this.metroLabel13.Text = "Est un pilote :";
             this.metroLabel13.UseCustomBackColor = true;
@@ -603,9 +637,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel12.AutoSize = true;
             this.metroLabel12.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel12.Location = new System.Drawing.Point(8, 415);
+            this.metroLabel12.Location = new System.Drawing.Point(6, 337);
+            this.metroLabel12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel12.Name = "metroLabel12";
-            this.metroLabel12.Size = new System.Drawing.Size(143, 20);
+            this.metroLabel12.Size = new System.Drawing.Size(137, 19);
             this.metroLabel12.TabIndex = 47;
             this.metroLabel12.Text = "Num de téléphone:";
             this.metroLabel12.UseCustomBackColor = true;
@@ -614,9 +649,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel11.AutoSize = true;
             this.metroLabel11.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel11.Location = new System.Drawing.Point(8, 449);
+            this.metroLabel11.Location = new System.Drawing.Point(6, 365);
+            this.metroLabel11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel11.Name = "metroLabel11";
-            this.metroLabel11.Size = new System.Drawing.Size(110, 20);
+            this.metroLabel11.Size = new System.Drawing.Size(105, 19);
             this.metroLabel11.TabIndex = 46;
             this.metroLabel11.Text = "Num de GSM :";
             this.metroLabel11.UseCustomBackColor = true;
@@ -625,9 +661,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel10.AutoSize = true;
             this.metroLabel10.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel10.Location = new System.Drawing.Point(354, 16);
+            this.metroLabel10.Location = new System.Drawing.Point(266, 13);
+            this.metroLabel10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel10.Name = "metroLabel10";
-            this.metroLabel10.Size = new System.Drawing.Size(141, 20);
+            this.metroLabel10.Size = new System.Drawing.Size(135, 19);
             this.metroLabel10.TabIndex = 45;
             this.metroLabel10.Text = "Date d\'inscription :";
             this.metroLabel10.UseCustomBackColor = true;
@@ -636,9 +673,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel9.AutoSize = true;
             this.metroLabel9.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel9.Location = new System.Drawing.Point(354, 54);
+            this.metroLabel9.Location = new System.Drawing.Point(266, 44);
+            this.metroLabel9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel9.Name = "metroLabel9";
-            this.metroLabel9.Size = new System.Drawing.Size(185, 20);
+            this.metroLabel9.Size = new System.Drawing.Size(178, 19);
             this.metroLabel9.TabIndex = 44;
             this.metroLabel9.Text = "Date dernière cotisation :";
             this.metroLabel9.UseCustomBackColor = true;
@@ -647,9 +685,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel8.AutoSize = true;
             this.metroLabel8.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel8.Location = new System.Drawing.Point(354, 95);
+            this.metroLabel8.Location = new System.Drawing.Point(266, 77);
+            this.metroLabel8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel8.Name = "metroLabel8";
-            this.metroLabel8.Size = new System.Drawing.Size(108, 20);
+            this.metroLabel8.Size = new System.Drawing.Size(101, 19);
             this.metroLabel8.TabIndex = 43;
             this.metroLabel8.Text = "Est un admin :";
             this.metroLabel8.UseCustomBackColor = true;
@@ -658,9 +697,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel6.AutoSize = true;
             this.metroLabel6.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel6.Location = new System.Drawing.Point(8, 57);
+            this.metroLabel6.Location = new System.Drawing.Point(6, 46);
+            this.metroLabel6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel6.Name = "metroLabel6";
-            this.metroLabel6.Size = new System.Drawing.Size(52, 20);
+            this.metroLabel6.Size = new System.Drawing.Size(50, 19);
             this.metroLabel6.TabIndex = 42;
             this.metroLabel6.Text = "Nom: ";
             this.metroLabel6.UseCustomBackColor = true;
@@ -669,9 +709,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel5.AutoSize = true;
             this.metroLabel5.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel5.Location = new System.Drawing.Point(8, 95);
+            this.metroLabel5.Location = new System.Drawing.Point(6, 77);
+            this.metroLabel5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel5.Name = "metroLabel5";
-            this.metroLabel5.Size = new System.Drawing.Size(72, 20);
+            this.metroLabel5.Size = new System.Drawing.Size(70, 19);
             this.metroLabel5.TabIndex = 41;
             this.metroLabel5.Text = "Prénom :";
             this.metroLabel5.UseCustomBackColor = true;
@@ -680,9 +721,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel4.AutoSize = true;
             this.metroLabel4.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel4.Location = new System.Drawing.Point(8, 133);
+            this.metroLabel4.Location = new System.Drawing.Point(6, 108);
+            this.metroLabel4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel4.Name = "metroLabel4";
-            this.metroLabel4.Size = new System.Drawing.Size(49, 20);
+            this.metroLabel4.Size = new System.Drawing.Size(49, 19);
             this.metroLabel4.TabIndex = 40;
             this.metroLabel4.Text = "Sexe :";
             this.metroLabel4.UseCustomBackColor = true;
@@ -691,9 +733,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel3.AutoSize = true;
             this.metroLabel3.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel3.Location = new System.Drawing.Point(6, 179);
+            this.metroLabel3.Location = new System.Drawing.Point(4, 145);
+            this.metroLabel3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel3.Name = "metroLabel3";
-            this.metroLabel3.Size = new System.Drawing.Size(142, 20);
+            this.metroLabel3.Size = new System.Drawing.Size(136, 19);
             this.metroLabel3.TabIndex = 39;
             this.metroLabel3.Text = "Date de naissance :";
             this.metroLabel3.UseCustomBackColor = true;
@@ -702,9 +745,10 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel2.AutoSize = true;
             this.metroLabel2.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel2.Location = new System.Drawing.Point(8, 222);
+            this.metroLabel2.Location = new System.Drawing.Point(6, 180);
+            this.metroLabel2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel2.Name = "metroLabel2";
-            this.metroLabel2.Size = new System.Drawing.Size(73, 20);
+            this.metroLabel2.Size = new System.Drawing.Size(70, 19);
             this.metroLabel2.TabIndex = 38;
             this.metroLabel2.Text = "Adresse :";
             this.metroLabel2.UseCustomBackColor = true;
@@ -713,59 +757,66 @@ namespace PRSGBD21.UC
             // 
             this.metroLabel1.AutoSize = true;
             this.metroLabel1.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel1.Location = new System.Drawing.Point(8, 16);
+            this.metroLabel1.Location = new System.Drawing.Point(6, 13);
+            this.metroLabel1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(27, 20);
+            this.metroLabel1.Size = new System.Drawing.Size(26, 19);
             this.metroLabel1.TabIndex = 37;
             this.metroLabel1.Text = "Id:";
             this.metroLabel1.UseCustomBackColor = true;
             // 
             // BtModifier
             // 
-            this.BtModifier.Location = new System.Drawing.Point(397, 487);
+            this.BtModifier.Location = new System.Drawing.Point(298, 396);
+            this.BtModifier.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.BtModifier.Name = "BtModifier";
-            this.BtModifier.Size = new System.Drawing.Size(118, 39);
+            this.BtModifier.Size = new System.Drawing.Size(88, 32);
             this.BtModifier.TabIndex = 69;
             this.BtModifier.Text = "Modifier";
             this.BtModifier.UseSelectable = true;
             // 
             // BtSupprimer
             // 
-            this.BtSupprimer.Location = new System.Drawing.Point(521, 487);
+            this.BtSupprimer.Location = new System.Drawing.Point(391, 396);
+            this.BtSupprimer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.BtSupprimer.Name = "BtSupprimer";
-            this.BtSupprimer.Size = new System.Drawing.Size(118, 39);
+            this.BtSupprimer.Size = new System.Drawing.Size(88, 32);
             this.BtSupprimer.TabIndex = 67;
             this.BtSupprimer.Text = "Supprimer";
             this.BtSupprimer.UseSelectable = true;
             // 
             // BtQuit
             // 
-            this.BtQuit.Location = new System.Drawing.Point(645, 487);
+            this.BtQuit.Location = new System.Drawing.Point(484, 396);
+            this.BtQuit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.BtQuit.Name = "BtQuit";
-            this.BtQuit.Size = new System.Drawing.Size(118, 39);
+            this.BtQuit.Size = new System.Drawing.Size(88, 32);
             this.BtQuit.TabIndex = 68;
             this.BtQuit.Text = "Quitter";
             this.BtQuit.UseSelectable = true;
+            this.BtQuit.Click += new System.EventHandler(this.BtQuit_Click);
             // 
             // BtAjouter
             // 
-            this.BtAjouter.Location = new System.Drawing.Point(8, 485);
+            this.BtAjouter.Location = new System.Drawing.Point(6, 394);
+            this.BtAjouter.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.BtAjouter.Name = "BtAjouter";
-            this.BtAjouter.Size = new System.Drawing.Size(118, 41);
+            this.BtAjouter.Size = new System.Drawing.Size(88, 33);
             this.BtAjouter.TabIndex = 70;
             this.BtAjouter.Text = "Ajouter";
             this.BtAjouter.UseSelectable = true;
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(411, 188);
+            this.panel1.Location = new System.Drawing.Point(308, 153);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(359, 281);
+            this.panel1.Size = new System.Drawing.Size(269, 228);
             this.panel1.TabIndex = 71;
             // 
             // ucAffMEM
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSlateGray;
             this.Controls.Add(this.panel1);
@@ -803,8 +854,9 @@ namespace PRSGBD21.UC
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "ucAffMEM";
-            this.Size = new System.Drawing.Size(773, 546);
+            this.Size = new System.Drawing.Size(580, 444);
             this.Load += new System.EventHandler(this.ucAffMEM_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bsMEM)).EndInit();
             this.ResumeLayout(false);

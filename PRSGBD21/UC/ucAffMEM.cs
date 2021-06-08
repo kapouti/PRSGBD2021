@@ -30,5 +30,10 @@ namespace PRSGBD21.UC
         {
 
         }
+
+        private void BtQuit_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+        }
     }
 }
